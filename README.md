@@ -1,5 +1,6 @@
 # 📊 **Hacktiv8 - Milestone 1 Project**
 **by Verren Monica**  
+
 **Phase 0 | Batch: RMT-038**  
 
 ## 📌 **Project Overview**  
@@ -33,3 +34,8 @@ The owner of an electronic gadget store is looking to **boost sales in 2025** by
 ✅ **Optimize stock levels** based on high-demand periods  
 ✅ **Targeted marketing** campaigns for different customer segments  
 ✅ **Identify underperforming products** and explore promotional strategies  
+
+## 🔗 **Let's Connect!**
+💼 [LinkedIn](https://www.linkedin.com/in/verren-monica/)
+
+
